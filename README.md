@@ -1,5 +1,4 @@
-![Chinmay Karpe (2)](https://user-images.githubusercontent.com/52243796/230642303-ac57e971-c6a8-4e41-b41b-a227b86315e6.png)
-
+![Chinmay Karpe (1)](https://user-images.githubusercontent.com/52243796/230642550-185a8877-f054-4c66-8824-56db2ece953e.png)
 
 <h1 align="center">Hi 👋, I'm Chinmay Karpe</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
