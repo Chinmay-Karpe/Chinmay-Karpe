@@ -1,4 +1,4 @@
-![Software](https://user-images.githubusercontent.com/52243796/229864170-f7f3d034-1b28-40c3-8519-ea66b2e89e22.jpg)
+![Chinmay Karpe (2)](https://user-images.githubusercontent.com/52243796/230642303-ac57e971-c6a8-4e41-b41b-a227b86315e6.png)
 
 
 <h1 align="center">Hi 👋, I'm Chinmay Karpe</h1>
